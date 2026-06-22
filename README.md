@@ -36,7 +36,7 @@ Mechanical Engineering Student | Full Stack Developer | IoT & Embedded Systems E
 ### 🚀 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" />
 </p>
 
 ---
@@ -44,7 +44,7 @@ Mechanical Engineering Student | Full Stack Developer | IoT & Embedded Systems E
 ### 🎨 Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,vite,next,tailwind,html,css" />
 </p>
 
 ---
@@ -52,7 +52,7 @@ Mechanical Engineering Student | Full Stack Developer | IoT & Embedded Systems E
 ### ⚙️ Backend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,firebase" />
 </p>
 
 ---
@@ -60,23 +60,15 @@ Mechanical Engineering Student | Full Stack Developer | IoT & Embedded Systems E
 ### 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
 </p>
 
 ---
 
-### 🔧 Embedded & IoT
+### ☁️ Cloud & DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino" />
-</p>
-
----
-
-### 🛠️ Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github" />
 </p>
 
 ---
@@ -144,6 +136,16 @@ Industrial fluid monitoring & safety system with real-time sensor alerts and ano
 - 📡 **IoT Network Specialist** — NSDC & Reliance Foundation | IoT systems & sensor integration
 
 ---
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Akaash-S/Akaash-S/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
 
 # 🌐 Connect With Me
 
