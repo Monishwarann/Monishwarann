@@ -6,7 +6,7 @@ Mechanical Engineering Student | Full Stack Developer | IoT & Embedded Systems E
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Front-End+Developer;IoT+%26+Embedded+Systems+Builder;AI-Powered+App+Enthusiast;Mechanical+Engineer+%26+Tech+Creator" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;IoT+%26+Embedded+Systems+Builder;AI-Powered+App+Enthusiast;Mechanical+Engineer+%26+Tech+Creator" />
 
 </div>
 
