@@ -109,7 +109,7 @@ Mechanical Engineering Student | Full Stack Developer | IoT & Embedded Systems E
 
 # 🔥 Featured Projects
 
-### 🛡️ Cyber Shield *(Team Project)*
+### 🛡️ Cyber Shield *(Contributed Project)*
 AI-powered phishing detection system with real-time URL & email threat analysis built using Python, AI/ML, and React.js.
 
 ---
@@ -119,7 +119,7 @@ AI-based resume screening platform with automated candidate ranking and skill ma
 
 ---
 
-### 🍱 Trust Bite *(Teaml Project)*
+### 🍱 Trust Bite *(ContributedProject)*
 Blockchain-enabled food supply chain transparency system with tamper-proof provenance tracking built with React.js & Node.js.
 
 ---
