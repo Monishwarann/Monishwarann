@@ -1,7 +1,7 @@
 <h1 align="center">Monishwaran K</h1>
 
 <h3 align="center">
-Mechanical Engineering Student | Front-End Developer | IoT & Embedded Systems Enthusiast
+Mechanical Engineering Student | Full Stack Developer | IoT & Embedded Systems Enthusiast
 </h3>
 
 <div align="center">
@@ -22,8 +22,8 @@ Mechanical Engineering Student | Front-End Developer | IoT & Embedded Systems En
 
 # 🚀 About Me
 
-- 🎓 First Year Mechanical Engineering Student at MSEC (2024–2028)
-- ⚡ Focused on Front-End Development, IoT Systems & AI-Powered Applications
+- 🎓 Mechanical Engineering Student at MSEC (2024–2028)
+- ⚡ Focused on Full Stack Development, IoT Systems & AI-Powered Applications
 - 🧠 Passionate about bridging hardware and software — from Arduino sensors to web apps
 - 🔧 Building projects with React.js, Node.js, Python, and Embedded Systems
 - 💬 Interested in AI Integration, Blockchain, Sensor Systems & REST APIs
@@ -117,7 +117,7 @@ Mechanical Engineering Student | Front-End Developer | IoT & Embedded Systems En
 
 # 🔥 Featured Projects
 
-### 🛡️ Cyber Shield *(Individual Project)*
+### 🛡️ Cyber Shield *(Team Project)*
 AI-powered phishing detection system with real-time URL & email threat analysis built using Python, AI/ML, and React.js.
 
 ---
@@ -127,7 +127,7 @@ AI-based resume screening platform with automated candidate ranking and skill ma
 
 ---
 
-### 🍱 Trust Bite *(Individual Project)*
+### 🍱 Trust Bite *(Teaml Project)*
 Blockchain-enabled food supply chain transparency system with tamper-proof provenance tracking built with React.js & Node.js.
 
 ---
