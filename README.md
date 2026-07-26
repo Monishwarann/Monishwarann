@@ -1,12 +1,12 @@
 <h1 align="center">Monishwaran K</h1>
 
 <h3 align="center">
-Mechanical Engineering Student | Front-End Developer | IoT & Embedded Systems Enthusiast
+Mechanical Engineering Student | Full Stack Developer | IoT & Embedded Systems Enthusiast
 </h3>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Front-End+Developer;Mechanical+Engineering+Student;IoT+%26+Embedded+Systems+Enthusiast;AI-Powered+Application+Developer;React.js+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Mechanical+Engineering+Student;IoT+%26+Embedded+Systems+Builder;AI-Powered+Application+Developer;Blockchain+%26+Cloud+Enthusiast" />
 
 </div>
 
@@ -22,55 +22,70 @@ Mechanical Engineering Student | Front-End Developer | IoT & Embedded Systems En
 
 # 🚀 About Me
 
-- 🎓 B.E. Mechanical Engineering Student (2024–2028)
-- 🏫 Meenakshi Sundararajan Engineering College, Chennai
-- 📍 Chennai, Tamil Nadu
-- 💻 Front-End Developer passionate about modern web development
-- ⚙️ Enthusiast in IoT, Embedded Systems & Sensor Integration
-- 🤖 Interested in AI-powered Applications & Machine Learning
-- 🌱 Currently improving React.js, JavaScript and Embedded Systems
+- 🎓 Mechanical Engineering Student at MSEC (2024–2028)
+- 💻 Full Stack Developer passionate about creating scalable web applications
+- 🤖 Interested in AI, Machine Learning & Intelligent Automation
+- 🔧 Building IoT & Embedded System projects using Arduino and sensors
+- 🌐 Exploring Cloud Computing, DevOps, REST APIs & Modern Web Technologies
+- ⛓️ Learning Blockchain Development and Smart Contract Technologies
+- 🚀 Passionate about solving real-world problems through software and hardware integration
 
 ---
 
 # ⚒️ Tech Stack
 
-## 💻 Frontend
+### 🚀 Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp" />
 </p>
 
 ---
 
-## ⚙️ Backend
+### 🎨 Frontend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,python,java" />
+<img src="https://skillicons.dev/icons?i=react,next,vite,html,css,tailwind,bootstrap" />
 </p>
 
 ---
 
-## 🗄️ Database
+### ⚙️ Backend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,firebase" />
 </p>
 
 ---
 
-## 🔌 Embedded & IoT
+### 🗄️ Databases
 
-- Arduino
-- Embedded Systems
-- IoT Systems
-- Sensor Integration
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase" />
+</p>
 
 ---
 
-## 🛠️ Tools
+### ☁️ Cloud & DevOps
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github" />
+</p>
+
+---
+
+### 🔧 IoT & Embedded
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
+
+---
+
+### 🛠️ Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,matlab" />
 </p>
 
 ---
@@ -79,7 +94,7 @@ Mechanical Engineering Student | Front-End Developer | IoT & Embedded Systems En
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Monishwarann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Monishwarann&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monishwarann&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -93,11 +108,11 @@ Mechanical Engineering Student | Front-End Developer | IoT & Embedded Systems En
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
-[![Monishwaran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Monishwarann&theme=tokyo-night&hide_border=true)](https://github.com/Monishwarann)
+[![Monishwaran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Monishwarann&theme=tokyo-night&hide_border=true&radius=16)](https://github.com/Monishwarann)
 
 </div>
 
@@ -105,125 +120,116 @@ Mechanical Engineering Student | Front-End Developer | IoT & Embedded Systems En
 
 # 🚀 Current Focus
 
-- ⚛️ Mastering React.js
-- 🌐 Responsive Web Development
-- 🤖 AI-powered Web Applications
-- 📡 IoT & Embedded Systems
-- 🔥 JavaScript Best Practices
-- ☁️ Learning REST APIs
-
----
-
-# 💻 Skills
-
-### Frontend
-
-- React.js
-- JavaScript
-- HTML5
-- CSS3
-- Responsive Web Design
-
-### Backend
-
-- Node.js
-- Python
-- Java
-
-### Database
-
-- MongoDB
-
-### Embedded Systems
-
-- Arduino
-- Embedded Systems
-- IoT
-- Sensor Integration
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- REST APIs
+- ⚛️ Advanced React.js & Next.js Development
+- 🤖 AI & Machine Learning Applications
+- 📡 IoT & Embedded Systems Development
+- ⛓️ Blockchain Development & Smart Contracts
+- ☁️ AWS Cloud & Docker
+- 🔐 REST APIs & Authentication Systems
+- 📱 Building Real-Time Full Stack Applications
 
 ---
 
 # 🔥 Featured Projects
 
-## 🛡️ Cyber Shield
+## 🛡️ Cyber Shield *(Contributed Project)*
 
-AI-powered phishing detection system with real-time URL & Email threat analysis using Python, AI/ML and React.js.
+AI-powered phishing detection platform using Machine Learning to analyze URLs and Emails with real-time threat detection.
 
----
+**Tech Stack**
 
-## 📄 Resume Analyzer
-
-AI-based Resume Screening Platform with candidate ranking and skill matching using Python, Node.js and MongoDB.
-
----
-
-## 🍱 Trust Bite
-
-Blockchain-enabled Food Supply Chain Transparency System using React.js and Node.js.
+- Python
+- React.js
+- Node.js
+- MongoDB
+- Machine Learning
 
 ---
 
-## ⚙️ Safe Flow
+## 📄 Resume Analyzer *(Individual Project)*
 
-Industrial Fluid Monitoring & Safety System using Arduino, IoT Sensors and real-time monitoring.
+AI-powered resume screening system that automatically analyzes resumes, extracts skills, and ranks candidates.
 
----
+**Tech Stack**
 
-# 💼 Experience
-
-## 🏭 Industrial Intern — Maiiyam Engineering (2026)
-
-- Observed manufacturing and industrial production processes.
-- Learned industrial workflow and quality procedures.
-- Gained practical exposure to manufacturing operations.
+- Python
+- NLP
+- React.js
+- Node.js
+- MongoDB
 
 ---
 
-# 🎓 Education
+## 🍱 Trust Bite *(Contributed Project)*
 
-## B.E. Mechanical Engineering
+Blockchain-powered food supply chain tracking system ensuring transparency and authenticity from farm to consumer.
 
-**Meenakshi Sundararajan Engineering College**
+**Tech Stack**
 
-📅 2024 – 2028
+- React.js
+- Node.js
+- Blockchain
+- MongoDB
+
+---
+
+## ⚙️ Safe Flow *(Individual Project)*
+
+Industrial fluid monitoring system using IoT sensors with real-time monitoring, alerts, and safety analysis.
+
+**Tech Stack**
+
+- Arduino
+- IoT Sensors
+- Python
+- Node.js
+
+---
+
+## 🚦 Smart Urban Mobility *(Individual Project)*
+
+AI-powered smart traffic management platform for congestion prediction, route optimization, and emission reduction.
+
+**Tech Stack**
+
+- React.js
+- Python
+- Machine Learning
+- Node.js
+- MongoDB
 
 ---
 
 # 🎖️ Certifications
 
-### 📜 Programming in Java
-
-**NPTEL**
-
-- Core Java
-- Object-Oriented Programming
-
----
-
-### 🐍 Python 101 for Data Science
-
-**IBM**
-
-- Data Analysis
-- Data Visualization
-- Python Programming
+- 📜 Programming in Java — **NPTEL**
+- 🐍 Python 101 for Data Science — **IBM**
+- 📡 IoT Network Specialist — **NSDC & Reliance Foundation**
+- ☁️ AWS Cloud Fundamentals *(Learning)*
+- 🤖 Machine Learning Fundamentals *(Learning)*
 
 ---
 
-### 📡 IoT Network Specialist
+# 📚 Currently Learning
 
-**NSDC & Reliance Foundation**
+- Artificial Intelligence
+- Machine Learning
+- Blockchain Development
+- AWS Cloud Computing
+- Docker & Kubernetes
+- Embedded C
+- RTOS
+- System Design
 
-- IoT Systems
-- Sensor Integration
-- Networking
+---
+
+# 🏆 Achievements
+
+- 🚀 Built multiple AI-integrated web applications
+- 🌐 Developed Full Stack Projects using MERN Stack
+- 📡 Worked on IoT & Embedded System prototypes
+- 💡 Passionate about solving real-world engineering problems
+- 📚 Continuously learning modern software technologies
 
 ---
 
@@ -249,14 +255,21 @@ Industrial Fluid Monitoring & Safety System using Arduino, IoT Sensors and real-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<!-- Replace with your LinkedIn profile -->
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-## 📍 Chennai, Tamil Nadu
+## 💡 Quote
 
-### ⚡ "Design. Develop. Innovate. 🚀"
+### ⚡ "Build things that matter. Engineer solutions that create impact."
+
+⭐ **Thanks for visiting my profile!**
 
 </div>
