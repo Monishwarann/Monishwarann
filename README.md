@@ -6,7 +6,7 @@ Mechanical Engineering Student | Full Stack Developer | IoT & Embedded Systems E
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Mechanical+Engineering+Student;IoT+%26+Embedded+Systems+Builder;AI-Powered+Application+Developer;Blockchain+%26+Cloud+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Mechanical+Engineering;IoT+%26+Embedded+Systems+Builder;AI-Powered+Application+Developer;" />
 
 </div>
 
@@ -37,7 +37,7 @@ Mechanical Engineering Student | Full Stack Developer | IoT & Embedded Systems E
 ### 🚀 Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c" />
 </p>
 
 ---
@@ -45,7 +45,7 @@ Mechanical Engineering Student | Full Stack Developer | IoT & Embedded Systems E
 ### 🎨 Frontend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,next,vite,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,next,vite,html,css,tailwind" />
 </p>
 
 ---
@@ -69,7 +69,7 @@ Mechanical Engineering Student | Full Stack Developer | IoT & Embedded Systems E
 ### ☁️ Cloud & DevOps
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github" />
 </p>
 
 ---
@@ -77,7 +77,7 @@ Mechanical Engineering Student | Full Stack Developer | IoT & Embedded Systems E
 ### 🔧 IoT & Embedded
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,Esp32" />
 </p>
 
 ---
