@@ -131,37 +131,20 @@ Mechanical Engineering Student | Full Stack Developer | IoT & Embedded Systems E
 # 🔥 Featured Projects
 
 ## 🛡️ Cyber Shield *(Contributed Project)*
-
 AI-powered phishing detection platform using Machine Learning to analyze URLs and Emails with real-time threat detection.
-
 ---
-
 ## 📄 Resume Analyzer *(Individual Project)*
-
 AI-powered resume screening system that automatically analyzes resumes, extracts skills, and ranks candidates.
-
-
 ---
-
 ## 🍱 Trust Bite *(Contributed Project)*
-
 Blockchain-powered food supply chain tracking system ensuring transparency and authenticity from farm to consumer.
-
 ---
-
 ## ⚙️ Safe Flow *(Individual Project)*
-
 Industrial fluid monitoring system using IoT sensors with real-time monitoring, alerts, and safety analysis.
-
-
 ---
-
 ## 🚦 Smart Urban Mobility *(Individual Project)*
-
 AI-powered smart traffic management platform for congestion prediction, route optimization, and emission reduction.
-
 ---
-
 # 🎖️ Certifications
 
 - 📜 Programming in Java — **NPTEL**
