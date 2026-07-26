@@ -92,13 +92,7 @@ Mechanical Engineering Student | Full Stack Developer | IoT & Embedded Systems E
 
 # 📊 GitHub Analytics
 
-<p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Monishwarann&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monishwarann&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
@@ -136,27 +130,12 @@ Mechanical Engineering Student | Full Stack Developer | IoT & Embedded Systems E
 
 AI-powered phishing detection platform using Machine Learning to analyze URLs and Emails with real-time threat detection.
 
-**Tech Stack**
-
-- Python
-- React.js
-- Node.js
-- MongoDB
-- Machine Learning
-
 ---
 
 ## 📄 Resume Analyzer *(Individual Project)*
 
 AI-powered resume screening system that automatically analyzes resumes, extracts skills, and ranks candidates.
 
-**Tech Stack**
-
-- Python
-- NLP
-- React.js
-- Node.js
-- MongoDB
 
 ---
 
@@ -164,39 +143,18 @@ AI-powered resume screening system that automatically analyzes resumes, extracts
 
 Blockchain-powered food supply chain tracking system ensuring transparency and authenticity from farm to consumer.
 
-**Tech Stack**
-
-- React.js
-- Node.js
-- Blockchain
-- MongoDB
-
 ---
 
 ## ⚙️ Safe Flow *(Individual Project)*
 
 Industrial fluid monitoring system using IoT sensors with real-time monitoring, alerts, and safety analysis.
 
-**Tech Stack**
-
-- Arduino
-- IoT Sensors
-- Python
-- Node.js
 
 ---
 
 ## 🚦 Smart Urban Mobility *(Individual Project)*
 
 AI-powered smart traffic management platform for congestion prediction, route optimization, and emission reduction.
-
-**Tech Stack**
-
-- React.js
-- Python
-- Machine Learning
-- Node.js
-- MongoDB
 
 ---
 
@@ -218,7 +176,6 @@ AI-powered smart traffic management platform for congestion prediction, route op
 - AWS Cloud Computing
 - Docker & Kubernetes
 - Embedded C
-- RTOS
 - System Design
 
 ---
@@ -256,7 +213,7 @@ AI-powered smart traffic management platform for congestion prediction, route op
 </a>
 
 <!-- Replace with your LinkedIn profile -->
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/monishwaran-k-b463a3363/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
