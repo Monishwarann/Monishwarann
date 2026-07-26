@@ -87,6 +87,10 @@ Mechanical Engineering Student | Full Stack Developer | IoT & Embedded Systems E
 <p align="left">
 <img src="https://skillicons.dev/icons?i=vscode,postman,figma,matlab" />
 </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Cursor-111827?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-A855F7?style=for-the-badge&logo=rocket&logoColor=white" />
+</p>
 
 ---
 
