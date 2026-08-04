@@ -96,12 +96,8 @@ Mechanical Engineering Student | Full Stack Developer | IoT & Embedded Systems E
 
 # 📊 GitHub Analytics
 
-
-
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Monishwarann&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Monishwarann&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
