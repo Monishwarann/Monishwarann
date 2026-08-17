@@ -79,7 +79,6 @@ Mechanical Engineering Student | Full Stack Developer | IoT & Embedded Systems E
 <p align="left">
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,Esp32" />
 </p>
-
 ---
 
 ### 🛠️ Tools
