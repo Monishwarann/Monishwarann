@@ -116,8 +116,7 @@ Mechanical Engineering Student | Full Stack Developer | IoT & Embedded Systems E
 
 - ⚛️ Advanced React.js & Next.js Development
 - 🤖 AI & Machine Learning Applications
-- 📡 IoT & Embedded Systems Development
-- ⛓️ Blockchain Development & Smart Contracts
+- 📡 IoT & Embedded Systems Developments
 - ☁️ AWS Cloud & Docker
 - 🔐 REST APIs & Authentication Systems
 - 📱 Building Real-Time Full Stack Applications
