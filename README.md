@@ -47,7 +47,6 @@ Mechanical Engineering Student | Full Stack Developer | IoT & Embedded Systems E
 <p align="left">
 <img src="https://skillicons.dev/icons?i=react,next,vite,html,css,tailwind" />
 </p>
-
 ---
 
 ### ⚙️ Backend Development
