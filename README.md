@@ -127,11 +127,11 @@ Mechanical Engineering Student | Full Stack Developer | IoT & Embedded Systems E
 # 🧠 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Monishwarann&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Monishwarann&layout=compact&langs_count=20&size_weight=0.5&count_weight=0.5&theme=radical&border_radius=10&count_private=true" alt="Monishwaran's Most Used Languages" />
+
 </div>
 
----
----
 
 # 🚀 Current Focus
 
