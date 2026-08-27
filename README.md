@@ -105,14 +105,17 @@ Mechanical Engineering Student | Full Stack Developer | IoT & Embedded Systems E
 
 ---
 
+---
+
 # 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Monishwarann&theme=tokyo-night&hide_border=true&radius=16&area=true" width="100%" alt="Monishwaran's GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Monishwarann&theme=tokyo-night&hide_border=true&radius=16&area=true&days=31" width="100%" alt="Monishwaran's GitHub Activity Graph" />
 
 </div>
 
+---
 ---
 
 # 🚀 Current Focus
