@@ -22,7 +22,7 @@ Mechanical Engineering Student | Full Stack Developer | IoT & Embedded Systems E
 
 # 🚀 About Me
 
-- 🎓 Mechanical Engineering Student at MSEC (2024–2028)
+- 🎓 Third Year Mechanical Engineering Student at MSEC
 - 💻 Full Stack Developer passionate about creating scalable web applications
 - 🤖 Interested in AI, Machine Learning & Intelligent Automation
 - 🔧 Building IoT & Embedded System projects using Arduino and sensors
