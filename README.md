@@ -225,6 +225,6 @@ AI-powered smart traffic management platform for congestion prediction, route op
 
 ### ⚡ "Build things that matter. Engineer solutions that create impact."
 
-⭐ **Thanks for visiting my profile!**
+⭐ **Thanks for visiting my profile!.**
 
 </div>
